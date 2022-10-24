@@ -1,3 +1,5 @@
+package src;
+
 public abstract class MaquinaDeBebida {
 
     public abstract Bebida entregaBebida();

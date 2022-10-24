@@ -1,3 +1,5 @@
+package src;
+
 public class CreateFactory {
 
     private static AbstractFactory abstFactory = null;

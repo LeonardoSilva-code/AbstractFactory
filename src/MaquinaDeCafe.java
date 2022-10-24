@@ -1,3 +1,5 @@
+package src;
+
 public class MaquinaDeCafe extends MaquinaDeBebida{
 
     @Override
